@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Matthew Kwok Data Science Portfolio
 
 
 # [Project 1 - Impact of COVID-19 on Global Airport Traffic](https://github.com/matt-kwok/covid_airport_impact_proj)
