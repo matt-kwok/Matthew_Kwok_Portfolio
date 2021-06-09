@@ -8,6 +8,9 @@
 * Implemented data wrangling and string RegEx techniques to clean, transform and manipulate a dataset of 7247 airport traffic entries from 27 airports 
 * Analyzed time series data of airport traffic to analyze the change in airport traffic during the year of 2020
 
+![](https://github.com/matt-kwok/Matthew_Kwok_Portfolio/blob/main/images/corr_matr.png)
+![](https://github.com/matt-kwok/Matthew_Kwok_Portfolio/blob/main/images/Chloro_map.png)
+
 # [Project 2 - Creating an OLS Regression Model](https://github.com/matt-kwok/OLS_Regression_proj/blob/main/OLS_Regression_Modelling_Project.ipynb)
 * Created an OLS regression model on an Excel file with multiple excel sheets
 * Checked for linearity in the dataset by plotting correlation matrices 
