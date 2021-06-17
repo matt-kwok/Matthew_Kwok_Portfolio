@@ -12,3 +12,9 @@
 * Checked for linearity in the dataset by plotting correlation matrices 
 * Optimized non-linear datasets by applying Box-Cox transformations to the datasets
 * Utilized boxplots to find outliers affecting the performance of regression model
+
+# [Project 3 - Creating MongoDB Queries](https://github.com/matt-kwok/MongoDB-Project)
+* Created MongoDB data pipelines to run aggregate queries on a company’s employee list
+* Employed MongoDB CRUD operations to perform queries that create, read, update, and delete documents in the database
+
+
