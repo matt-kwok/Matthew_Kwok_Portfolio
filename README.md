@@ -17,4 +17,10 @@
 * Created MongoDB data pipelines to run aggregate queries on a company’s employee list
 * Employed MongoDB CRUD operations to perform queries that create, read, update, and delete documents in the database
 
+# [Project 4 - Creating a data model in Apache Cassandra](https://github.com/matt-kwok/Apache_Cassandra_Project)
+* Designed a data model for a database which stores information about all universities that offer a data course
+* Created Cassandra tables based on a Chebotko Diagram’s data model, in Windows PowerShell
 
+# [Project 5 - Machine Learning with Apache Spark](https://github.com/matt-kwok/ApacheSpark-Project)
+* Built a random forest model and optimize it to predict if a farmers market is more likely to be in rich zip code 
+* Created a model to predict the price of a diamond, using Apache Spark ML Pipeline
