@@ -1,13 +1,13 @@
 # Projects
 
 ## [IEEE-CIS Fraud Detection](https://github.com/matt-kwok/IEEE_Fraud_Detection_Project)
-* Creating a machine learning model to predict the probability of a transaction being fradulent
+* Creating a machine learning model to predict the probability of a transaction being fraudulent
 * Currently in the preprocessing process specifically dealing with null values and feature engineering 
 * Test dataset size has 141907 rows by 433 columns and the training dataset size has 144233 rows by 434 columns
 
 ## [Impact of COVID-19 on Global Airport Traffic](https://github.com/matt-kwok/covid_airport_impact_proj)
 * Utilized GeoPandas, Contextily, and Folium to leverage geospatial data and airport traffic data to create GIS maps of how COVID has influenced global airport traffic 
-* Encoded categorical variables using Label-Encoding and One-Hot-Encoding methods to create correlation heatmaps to see if there was any relationships between the variables
+* Encoded categorical variables using Label-Encoding and One-Hot-Encoding methods to create correlation heatmaps to see if there were any relationships between the variables
 * Implemented data wrangling and string RegEx techniques to clean, transform and manipulate a dataset of 7247 airport traffic entries from 27 airports 
 * Analyzed time series data of airport traffic to analyze the change in airport traffic during the year of 2020
 
