@@ -1,11 +1,11 @@
 # Projects
 
 ## [Target Marketing for Canadian Bank](https://github.com/matt-kwok/Bank_Target_Marketing)
-* Creating a machine learning model to predict whether a bank customer will respond to a banks campaign to boost banking activity
+* Created a machine learning model to predict whether a bank customer will respond to a banks campaign to boost banking activity
 * Utilized Decision Tree as the first classifier and tuned each parameter with GridSearchCV but finalized the model but tuning all parameters with RandomizedSearchCV
 * Also implemented an Ensemble Stacking which included classifier models like Random Forest, ADA Boost, Extra Trees and Gradient Boost
 * Overall models had around a 60% accuracy 
-* Tuning with RandomizedSearchCV on Decision Tree gave an AUC of 64% and a F1 score of 61%
+* Hyperparamter tuning with RandomizedSearchCV on Decision Tree gave an AUC of 64% and a F1 score of 61%
 
 ## [IEEE-CIS Fraud Detection](https://github.com/matt-kwok/IEEE_Fraud_Detection_Project)
 * Creating a machine learning model to predict the probability of a transaction being fraudulent
