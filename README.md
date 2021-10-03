@@ -7,6 +7,9 @@
 * Overall models had around a 60% accuracy 
 * Hyperparamter tuning with RandomizedSearchCV on Decision Tree gave an AUC of 64% and a F1 score of 61%
 
+![](images/XGBoost_ROC_Curve.png)
+![](images/Feature_Importance.png)
+
 ## [IEEE-CIS Fraud Detection](https://github.com/matt-kwok/IEEE_Fraud_Detection_Project)
 * Creating a machine learning model to predict the probability of a transaction being fraudulent
 * Currently in the preprocessing process specifically dealing with null values and feature engineering 
