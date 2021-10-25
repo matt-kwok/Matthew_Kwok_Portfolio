@@ -1,4 +1,4 @@
-# Projects
+# Data Science and Data Analysis Projects
 
 ## [Target Marketing for Canadian Bank](https://github.com/matt-kwok/Bank_Target_Marketing)
 * Created a machine learning model to predict whether a bank customer will respond to a banks campaign to boost banking activity
