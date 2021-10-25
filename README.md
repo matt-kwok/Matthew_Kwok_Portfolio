@@ -41,3 +41,11 @@
 ## [Machine Learning with Apache Spark](https://github.com/matt-kwok/ApacheSpark-Project)
 * Built a random forest model and optimize it to predict if a farmers market is more likely to be in rich zip code 
 * Created a model to predict the price of a diamond, using Apache Spark ML Pipeline
+
+# Data Analysis Projects
+
+## [How does Infectious Disease Propagate?](https://github.com/matt-kwok/Disease_Project)
+
+## [Toronto Climate Change Impact Assessment (1980 - 2080](https://github.com/matt-kwok/Toronto_Climate_Analysis)
+
+
