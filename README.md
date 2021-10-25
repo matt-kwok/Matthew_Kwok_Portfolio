@@ -10,11 +10,6 @@
 ![](images/XGBoost_ROC_Curve.png)
 ![](images/Feature_Importance.png)
 
-## [IEEE-CIS Fraud Detection](https://github.com/matt-kwok/IEEE_Fraud_Detection_Project)
-* Creating a machine learning model to predict the probability of a transaction being fraudulent
-* Currently in the preprocessing process specifically dealing with null values and feature engineering 
-* Test dataset size has 141907 rows by 433 columns and the training dataset size has 144233 rows by 434 columns
-
 ## [Impact of COVID-19 on Global Airport Traffic](https://github.com/matt-kwok/covid_airport_impact_proj)
 * Utilized GeoPandas, Contextily, and Folium to leverage geospatial data and airport traffic data to create GIS maps of how COVID has influenced global airport traffic 
 * Encoded categorical variables using Label-Encoding and One-Hot-Encoding methods to create correlation heatmaps to see if there were any relationships between the variables
@@ -23,6 +18,14 @@
 
 ![](images/corr_matr.png)
 ![](images/Chloro_map.png)
+
+# Data Analysis Projects
+
+## [How does Infectious Disease Propagate?](https://github.com/matt-kwok/Disease_Project)
+
+## [Toronto Climate Change Impact Assessment (1980 - 2080)](https://github.com/matt-kwok/Toronto_Climate_Analysis)
+
+# Other Data Projects
 
 ## [Creating an OLS Regression Model](https://github.com/matt-kwok/OLS_Regression_proj/blob/main/OLS_Regression_Modelling_Project.ipynb)
 * Created an OLS regression model on an Excel file with multiple excel sheets
@@ -42,10 +45,5 @@
 * Built a random forest model and optimize it to predict if a farmers market is more likely to be in rich zip code 
 * Created a model to predict the price of a diamond, using Apache Spark ML Pipeline
 
-# Data Analysis Projects
-
-## [How does Infectious Disease Propagate?](https://github.com/matt-kwok/Disease_Project)
-
-## [Toronto Climate Change Impact Assessment (1980 - 2080)](https://github.com/matt-kwok/Toronto_Climate_Analysis)
 
 
