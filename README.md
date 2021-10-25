@@ -46,6 +46,6 @@
 
 ## [How does Infectious Disease Propagate?](https://github.com/matt-kwok/Disease_Project)
 
-## [Toronto Climate Change Impact Assessment (1980 - 2080](https://github.com/matt-kwok/Toronto_Climate_Analysis)
+## [Toronto Climate Change Impact Assessment (1980 - 2080)](https://github.com/matt-kwok/Toronto_Climate_Analysis)
 
 
